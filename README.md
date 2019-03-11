@@ -1,2 +1,2 @@
-# hello-word
-Just another repository
+# hello-world
+everything will be ok
